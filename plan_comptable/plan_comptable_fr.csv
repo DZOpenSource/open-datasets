@@ -1,0 +1,642 @@
+code,nom de compte
+1011,Capital souscrit - non appelé
+1012,Capital souscrit - appelé non versé
+1013,"Capital souscrit appelé, versé"
+1031,Prime d’émission
+1032,Prime de fusion
+1033,Prime d’apports
+1035,Bons de souscription d’actions (BSA)
+104,Ecart d’évaluation
+1051,Ecart de réévaluation sur immobilisations corporelles
+1059,Ecart de réévaluation rapporté au résultat de l’exercice
+1061,Réserve légale
+1062,Réserves réglementées
+1063,Réserves statutaires ou contractuelles
+1064,Réserves ordinaires
+1065,Réserves Spéciales consécutive à l’octroi d’avantages
+1066,Réserves facultatives
+1068,Autres réserves
+107,Écarts d'équivalence
+108,Compte de l'exploitant
+109,Actionnaires: capital souscrit - non appelé
+110,Report à nouveau (bénéfice)
+119,Report à nouveau (Déficit)
+120,Résultat de l'exercice (bénéfice)
+129,Résultat net de l’exercice –(DEFICIT)
+1311,Subventions d’équipements: Financement
+1312,Subventions d’équipements: Financement d'autres organismes
+1313,Transfert gratuit d’immobilisations
+1319,Subventions inscrites
+1321,Subventions d’investissement
+1322,Subventions pour financement d'activités à long terme
+1329,Autres subventions inscrites
+1386,Charges différées
+1387,Produits différés
+1531,Provisions pour avantages au personnel (IDR–IFC)
+1581,Provisions pour remise en l’état ou de démantèlement
+1611,Emprunt Principal
+1618,Intérêts courus et non échus
+1621,Emprunt Principal
+1628,Intérêts courus et non échus
+1631,Emprunt Principal
+1638,Intérêts courus et non échus
+1641,Emprunts  à Court  Terme
+1651,Dépôts reçus
+1671,Financement Principal
+169,Primes de remboursement des obligations
+171,Dettes rattachées à des participations (groupe)
+172,Dettes rattachées à des participations (hors groupe)
+173,Dettes rattachés à des sociétés en participation
+178,Autres dettes rattachés à des participations
+1814,Créances inter-Unités (ou établissement)
+18141,Créances commerciales
+1815,Dettesenvers la participation ou GIE
+18151,Dettes commerciales
+188,Comptes de liaison des sociétés en participation
+203,Frais de développement immobilisables
+2041,Logiciels de traitements informatiques
+2042,Hébergement site Web
+2058,Autres droits similaires (concession  et  franchise)
+2071,Ecart d'acquisition positif (goodwill)
+2072,Autres écarts d’acquisitions ou de fusions
+2079,Ecart d'acquisition négatif (badwill)
+2081,Fonds de commerce
+2082,Droit au bail
+2087,Actif environnemental
+2111,Terrains nus
+2112,Terrains bâtis
+2113,Terrains aménagés
+2114,Terrains de gisement (carrières)
+2121,Aménagement d’espaces verts
+2122,Autres agencements et aménagements de terrains
+2131,Bâtiments administratifs et commerciaux
+2132,Bâtiments industriels (à décomposer en cas de besoin)
+2133,Bâtiments sociaux (CMS –CANTINE –REFECTOIRE)
+2151,Installations complexes spécialisées
+2181,Installations générales agencements aménagements divers
+2182,Matériel de transport
+2183,Matériel de bureau et matériel informatique
+2184,Mobilier
+2185,Autres mobiliers et matériels divers
+2186,Actifs biologiques
+2187,Emballages récupérables
+221,Terrains en concession
+222,Agencements et aménagements de terrain en concession
+2322,Terrains en cours
+2323,Constructions en cours
+2325,"Installations techniques, matériels et outillage industriels en cours"
+2328,Autres immobilisations corporelles en cours
+237,Immobilisations incorporelles en cours
+2382,Avances sur commandes d’immobilisations incorporelles
+2384,Avances sur commandes d’immobilisations corporelles
+261,Titres de filiales
+262,Autres titres de participation
+266,ACréances rattachées à des participations groupe
+2721,Obligations
+2722,Bons
+273,Titres immobilisés de l'activité de portefeuille (TIAP)
+2741,Prêts participatifs
+2742,Prêts au personnel
+2743,Autres prêts accordés
+2748,Intérêts courus sur prêts et créances de crédit bail
+2751,Dépôts
+2755,Cautionnements versés sur loyers
+2761,Créances diverses
+2768,Intérêts courus et non échus sur actifs non courants
+2803,Amortissements des frais de développement immobilisables
+2804,Amortissements des logiciels informatiques et assimilés
+2805,"Amortissements concessions et droits similaires, brevets, licences, marques"
+2808,Amortissements des autres immobilisations incorporelles
+2811,Amortissements des terrains de gisement (carrières...)
+2812,Amortissements des agencements et aménagements de terrains
+2813,Amortissements des constructions
+2815,"Amortissements des Installations techniques, matériels  outillage"
+2818,Amortissements des autres immobilisations corporelles
+282,Amortissements des immobilisations mises en concession
+2903,Pertes de valeur sur frais de développement immobilisables
+2904,Pertes de valeur sur logiciels informatiques et assimilés
+2905,"Pertes  de valeur sur concessions et droits similaires, brevets, licences, marques"
+2907,Pertes de valeur sur écart d’acquisition (Goodwill)
+2908,Pertes de valeur sur autres immobilisations incorporelles
+2911,Perte de valeur des terrains
+292,Pertes de valeur sur immobilisations mises en concession
+2931,Pertes de valeurs sur immobilisations incorporelles en cours
+2961,Pertes de valeur sur titres de filiales
+2968,Pertes de valeur sur créances rattachées à des SEP
+2971,Pertes de valeur sur titres de placement
+2972,Pertes de valeurs sur les TIAP
+2981,Pertes de valeur sur les titres participatifs
+30,Stocks de marchandises
+3111,Matière (ou groupe) A
+3112,Matière (ou groupe) B
+3118,Autres matières premières
+3171,Fournitures A
+3172,Fournitures B
+3178,Autres fournitures accessoires
+3221,Carburant et lubrifiant –Véhicules
+3222,Petit outillage et fournitures d'ateliers
+3223,Droguerie et Produits d'entretien
+3224,Pièces de rechange pour équipements et matériels techniques
+3225,Pièces de rechange et pneumatique pour matériel de transport
+3226,Quincaillerie générale et fournitures de magasin
+3227,Fournitures de bureau et imprimés
+3227,Autres fournitures consommables
+3261,Emballages perdus
+3262,Emballages récupérables non identifiables
+3263,Emballages à usage mixte
+3311,Produit en cours P 1
+3312,Produit en cours P 2
+3313,Produit en cours P 3
+3511,Travaux en cours – T1
+3512,Travaux en cours – T2
+3353,Travaux en cours – T3
+3411,Etudes en cours – E1
+3412,Etudes en cours – E2
+3413,Etudes en cours – E3
+3451,Prestations de services en cours – S1
+3452,Produits finis (ou groupe) – PF 2
+3553,Produits finis (ou groupe) – PF 3
+3801,Achats de Marchandises (ou groupe) A
+3802,Achats de Marchandises (ou groupe) B
+3811,Matières (ou groupe) A
+38111,Matières (ou groupe) A
+38112,Matières (ou groupe) B
+38118,Autres matières premières
+3817,Achats de Fournitures Accessoires
+38171,Achats de Fournitures A
+38172,Achats de Fournitures B
+37178,Achats d'autres fournitures accessoires
+382,Autres approvisionnements stockés
+3821,Achat de Matières consommables stockées
+3822,Achat de Fournitures consommables stockées
+3826,Achat d'Emballages non récupérables
+3827,Achat de Fournitures consommables non stockées
+383,Frais Accessoires sur Achats (indirects) – incorporables
+384,Achats sans paiements
+3841,Achats locaux
+3842,Achats à l'importation
+390,Pertes de valeur sur Stocks de marchandises
+391,Pertes de valeur sur Matières premières et fournitures
+392,Pertes de valeur sur Autres approvisionnements
+393,Pertes de valeur sur En cours de production de biens
+394,Pertes de valeur sur En cours de production de services
+395,Pertes de valeur sur stocks de produits
+397,Pertes de valeur sur Stocks à l'extérieur
+400,Fournisseurs et comptes rattachés
+401,Fournisseurs de biens et services
+4013,Fournisseurs de stocks
+40131,Fournisseurs de stocks : Nationaux – Publics
+40132,Fournisseurs de stocks : Nationaux – Privés
+40133,Fournisseurs de stocks : Etrangers
+4016,Fournisseurs de services
+40161,Fournisseurs de services : Nationaux – Publics
+40162,Fournisseurs de services : Nationaux – Privés
+40163,Fournisseurs de services : Etrangers
+4017,Fournisseurs - Retenues de garantie
+40171,Fournisseurs : Retenues de garantie – Publics
+40172,Fournisseurs : Retenues de garantie – Privés
+40173,Fournisseurs : Retenues de garantie – Etrangers
+403,Fournisseurs - Effets à payer
+4041,Fournisseurs d'immobilisations : Nationaux – Publics
+4042,Fournisseurs d'immobilisations : Nationaux – Privés
+4043,Fournisseurs d'immobilisations : Etrangers
+4047,Fournisseurs d'immobilisations - Retenues de garantie
+405,Fournisseurs d'immobilisations - Effets à payer
+4081,Fournisseurs de stocks nationaux : Factures non parvenues
+4082,Fournisseurs de services – factures non parvenues
+4083,Factures à recevoir des Fournisseurs d’immobilisations
+4086,"Factures à recevoir des Consultants, CAC et Experts"
+4088,Fournisseurs : Intérêts courus à payer
+4091,Fournisseurs : Avances et acomptes sur commandes
+4096,Fournisseurs : Créances pour emballages et matériels à rendre
+4097,Fournisseurs à soldes débiteurs (à détailler par code Tiers)
+4098,"Rabais, remises, ristournes à obtenir et autres avoirs non encore reçus"
+410,Clients et comptes rattachés
+411,Clients : Ventes de biens et services
+4114,Clients : Autres créances diverses
+4117,Clients : Retenues de garantie
+413,Clients - Effets à recevoir
+416,Clients douteux ou litigieux
+417,Créances sur travaux ou prestations en cours
+4181,Clients - Factures à établir
+4182,Clients : Factures à établir – Secteur Privé
+4188,Clients : intérêts moratoires à facturer
+4191,Clients - Avances et acomptes reçus sur commandes
+4196,Clients - Dettes pour emballages et matériels consignés
+4197,Clients à solde créditeur (à détailler par code Tiers)
+4198,"Rabais, remises, ristournes à accorder et autres avoirs à établir"
+421,Personnel - Rémunérations dues
+4211,Salaires et appointements à payer
+4212,Présalaires à payer
+4213,Soldes de tout compte restant dus
+421,Personnel : Rémunérations dues
+4211,Salaires et appointements à payer
+4212,Présalaires à payer
+4213,Soldes de tout compte restant dus
+422,Fonds des œuvres sociales
+4221,Contributions annuelles à payer (3%)
+4229,Autres avances pour le compte des œuvres sociales
+423,Participation des salariés au résultat
+425,Personnel - Avances et acomptes
+426,Personnel - Dépôts
+427,Personnel - Oppositions
+4281,Dettes provisionnées pour congés à payer
+4286,Frais de mission à payerr
+4288,Personnel : Autres charges à payer
+4289,Personnel : Produits à recevoir
+431,Sécurité Sociale
+432,Autres organismes sociaux
+4386,Organismes sociaux : Charges sociales sur congés à payer
+4388,Organismes sociaux : Autres charges à payer
+4389,Organismes sociaux : Produits à recevoir
+4411,Subventions d'investissement
+4412,Subventions d’exploitation à recevoir
+4418,Autres subventions et aides publiques à recevoir
+4419,Avances sur subventions
+4421,IRG retenu sur salaires (barème)
+4422,IRG – Libératoire sur rappels de salaires et participation
+4423,IRG – Libératoire sur bénéfices distribués
+4424,IRG – Libératoire sur revenus mobiliers
+4425,IRG – Libératoire sur Jetons de présence et tantièmes
+4426,IRG – Libératoire retenu à la source aux consultants
+4428,Autres impôts retenus à la source
+4431,Créances sur l'Etat – Indemnisations
+4432,Avance pour compte ANEM – Emplois aidés (Quote part de l'Etat)
+4438,Créances ou dettes résultant du changement de la réglementation fiscale
+444,"Etat, impôts sur les résultats"
+4441,Acomptes provisionnels sur I.B.S
+4449,Impôts sur les bénéfices – I.B.S à payer
+44551,TVA à décaisser (à payer sur G.50)
+44552,Obligations cautionnées (au profit des Douanes)
+44562,TVA récupérable sur immobilisations
+44563,TVA transférée par d'autres entreprises
+44566,TVA récupérable sur achats de stocks et de services
+44568,Crédit de TVA à reporter (Précompte)
+44571,TVA collectée sur Ventes – (livraisons juridiques ou matérielles)
+44572,TVA collectée sur les encaissements
+44575,Droits de timbre perçus au profit du Trésor
+44583,Remboursement de TVA demandé
+44584,TVA récupérée d’avance ou en attente de régularisation
+44586,TVA sur factures d’achats non parvenues
+44587,TVA sur factures de ventes ou de prestations à établir
+446,Obligations cautionnées
+447,"Autres impôts, taxes et versements assimilés"
+4471,Taxe sur l’activité professionnelle – TAP à payer (sur G.50)
+4472,Taxe sur l’apprentissage et la formation professionnelle
+4473,Taxe sur l’environnement – (Écotaxe)
+4474,Droits d’enregistrement à payer
+4475,Taxe foncière à payer
+4478,"Autres droits, impôts et taxes à payer"
+4482,Etat – charges à payer : Charges fiscales sur congés à payer
+4486,Rappels d'impôts à payer (hors IBS)
+4487,Etat – produits à recevoir : Trop versés sur impôts
+4488,Etat – produits à recevoir : Dégrèvement d’impôts
+4511,Avances de fonds
+4518,Autres opérations
+455,Associés - Comptes courants
+4551,Principal
+4556,Intérêts courus
+45611,Associés : Comptes d’apport en société
+45615,Associés : Apports en numéraires
+4562,"Associés : Capital souscrit, appelé et non versé (apports à libérer)"
+4563,Associés : Versements reçus sur augmentation de Capital
+4564,Associés : Versements anticipés
+4566,Actionnaires défaillants
+4567,Associés - Capital à rembourser
+4571,Coupons d’action
+4572,Dividendes mis en paiement
+4577,Tantièmes à payer aux administrateurs et gérants
+4586,Opérations faites en commun : Charges à payer
+4587,IOpérations faites en commun : Produits à recevoir
+4588,Intérêts courus
+462,Créances sur cessions d'immobilisations
+464,Dettes sur acquisitions de valeurs mobilières de placement
+465,Créances sur cessions de valeurs mobilières de placement
+467,Autres comptes débiteurs ou créditeurs
+4686,Charges à payer
+4687,Produits à recevoir
+476,Comptes d'attente 5
+477,Recettes en attente d’imputations
+478,Autres opérations à régulariser
+4811,Provisions pour procès et litiges (moins de 12 mois)
+4812,Provisions pour garanties données aux clients (moins de 12 mois)
+4815,Provisions pour amendes et pénalités
+4816,Provisions pour pertes de change
+4818,Autres provisions : Passifs courants
+486,Charges constatées d'avance
+487,Produits constatés d'avance
+4911,Pertes de valeurs sur comptes de clients
+4912,Pertes de valeurs sur retenues de garanties
+4951,Pertes de valeur sur compte du groupe
+4955,Pertes de valeur sur comptes courants des associés
+4958,Pertes de valeur sur opérations faites en commun (SEP – GIE)
+4962,Pertes de valeur sur créances de cessions d'immobilisations
+4965,Pertes de valeur sur créances de cessions de VMP
+4967,Pertes de valeur sur autres comptes débiteurs
+498,Pertes de valeur sur autres comptes de tiers
+501,Parts dans entreprises liées
+502,Actions propres
+5031,Actions détenues en vue de la revente
+5061,Obligations à moins de 12 mois
+5062,Bons du Trésor à court terme
+5063,Bons de caisse à court terme
+5081,Autres valeurs mobilières
+5082,Bons de souscription
+5083,Intérêts courus
+5088,Intérêts courus
+509,Versements restant à effectuer sur valeurs mobilières de placement non libérées
+5111,Chèques à encaisser
+5112,Traites remises à l’escompte
+5113,Effets à l'encaissement
+5118,Autres valeurs à l’encaissement
+5121,Comptes bancaires : Dinars
+5122,Comptes bancaires : Devises
+5151,Caisses du Trésor Public
+5152,Caisses des établissements publics
+5171,Banque postale (C.C.P)
+5172,Sociétés de leasing (crédit-bail)
+5173,Sociétés de factoring (affacturage)
+5176,Société de bourse
+5178,Autres organismes et établissements financiers
+5186,Intérêts courus à payer (agios à payer)
+5187,Intérêts courus à recevoir (intérêts des dépôts créditeurs à recevoir)
+5191,Facilité de caisse
+5192,Découvert bancaire
+5193,Autres avances bancairesr
+5198,Intérêts courus sur concours bancaires courants
+5311,Caisse principale en Dinars
+5314,Caisse principale en Devises
+5321,Caisse auxiliaire : Succursale (ou Unité) A
+5322,Caisse auxiliaire : Succursale (ou Unité) B
+541,Régies d'avances
+542,Accréditifs
+5811,Virements interbancaires
+5812,Versements d'espèces en banques
+5813,Alimentation caisses
+5886,Achats au comptant
+5887,Ventes au comptant
+5888,name
+591,Pertes de valeur sur valeurs en banque et Etablissements financiers
+594,Pertes de valeurs sur régies d'avances et accréditifs
+600,Achats de marchandises vendues
+6001,Matières (ou groupe) A
+6002,Matières (ou groupe) B
+6011,Matières premières consommées
+60111,Matières (ou groupe) A
+60112,Matières (ou groupe) B
+60118,Autres matières premières consommées
+60171,Fournitures A
+60172,Fournitures B
+60178,Autres fournitures accessoires consommées
+60211,Matières (ou groupe) C
+60212,Matières (ou groupe) D
+60218,Autres matières consommées
+60221,Carburant et lubrifiant – Véhicules
+60222,Petit outillage et fournitures d'ateliers
+60223,Droguerie et Produits d'entretien
+60224,Pièces de rechange pour équipements et matériels techniques
+60225,Pièces de rechange et pneumatique pour matériel de transport
+60226,Quincaillerie générale et fournitures de magasin
+60228,Autres fournitures consommées
+60261,Emballages perdus consommés
+60262,Emballages récupérables non identifiables consommés
+60263,Emballages à usage mixte consommés
+6030,Variations de stocks de marchandises
+6031,Variations de stock de matières premières et Fournitures
+6032,Variations de stock des autres approvisionnements
+604,Achats d'études et de prestations de services
+6051,Achats d’immobilisations de faible valeur : Petit matériel et outillage
+6052,Achats d’immobilisations de faible valeur : Mobilier
+6053,Achats d’immobilisations de faible valeur : Matériel informatique
+6054,Achats d’immobilisations de faible valeur : Matériel de communicat
+6058,"Autres achats de matériels, d'équipements et de travaux"
+6071,Achat non stocké de carburant
+6072,Achat non stocké d'énergie et de force motrice (ateliers)
+6073,"Fournitures non stockées : Eau, Gaz et Electricité (bureaux)"
+6074,Fournitures administratives et de bureautique non stockées
+6075,Achats non stockés de fournitures d'atelier et de magasin
+6076,Achat non stocké de Tenues de travail et de sécurité
+6078,Achat : Autres fournitures consommables non stockées
+6090,R.R.R Obtenus sur achats de marchandises
+6091,R.R.R Obtenus sur achats de matières premières
+6092,R.R.R Obtenus sur achats d’autres approvisionnements
+6094,R.R.R Obtenus sur achats sur études et prestations
+6095,R.R.R Obtenus sur achats de petits matériels et équipements
+6111,Sous traitance de spécialité
+6112,Sous traitance de capacité
+61311,Locations immobilières : Redevance de crédit bail immobilier
+61312,Locations mobilières : Redevance de crédit bail mobilier
+6141,Charges locatives d’immeubles
+6142,Charges de copropriété logements de fonction
+6143,Loyers garages et parking de stationnement de véhicules
+6148,Autres charges locatives
+6151,Entretien et réparation sur biens immobiliers
+6152,Entretien et réparation sur biens mobiliers
+6156,Maintenance
+6161,Assurances multirisques professionnels
+6162,Assurances transport
+6163,Assurance responsabilité civile
+6164,Assurance catastrophe naturelle
+6165,Assurance couverture risque de Vie
+6168,Autres assurances
+617,Études et recherches
+6181,Documentation générale
+6182,"Abonnements aux Journaux, revues et JO/BOAL/BOMOP ...etc."
+6183,Documentation technique
+6184,Frais de reprographie
+6185,Frais de soumissions et de marchés
+6186,Frais de conseils et assemblées
+6187,"Frais de colloques, séminaires et conférences"
+619,"Rabais, remises et ristournes obtenus sur services extérieurs"
+6211,Personnel intérimaire
+6212,Charges de sécurité et de gardiennage
+6213,Charges de nettoyage et travaux d’insalubrité
+6216,Personnel détaché ou prêté à l'entreprise
+6222,Commissions et courtages sur ventes
+6223,Rémunération de consultants
+6225,Rémunérations d'affacturage
+6226,Honoraires
+6227,Frais d'actes et de contentieux
+6228,Divers
+6231,Annonces et insertions
+6232,Échantillons
+6233,Foires et expositions
+6234,"Parrainage, Sponsoring et mécénat"
+6235,Cadeau à la clientèle
+6236,Catalogues et imprimés
+6237,Publications
+6238,"Divers (pourboires, dons courants...)"
+6241,Transports sur achats
+6242,Transports sur ventes
+6243,Transports entre établissements ou chantiers
+6244,Transports administratifs
+6248,Divers
+6251,Voyages et déplacements à l’étranger
+6252,Frais de déménagement
+62551,Missions : intérieur du pays - Frais de voyage
+62552,Missions : intérieur du pays - Frais de séjour
+6257,Réceptions
+6261,Affranchissement courrier
+6262,Abonnement boite postale
+6263,Abonnements et communications téléphonie mobile
+6264,Abonnement internet
+6265,Frais de télécommunication (fixe et fax)
+6271,Frais sur effets et sur titres
+6272,Commissions bancaires
+6276,Location de coffres
+6278,Autres frais et commissions sur prestations de services
+6281,Frais de recrutement de personnel
+6282,Frais de formation externe du personnel
+6283,Cotisations professionnelles
+6284,Droits de stationnement parking privé
+6288,Autres cotisations et dons courants divers
+629,"Rabais, remises et ristournes obtenus sur autres services extérieurs"
+63111,"Traitements, salaires et appointements"
+63112,Présalaires et indemnités de stage et d’apprentissage
+63113,Heures supplémentaires et IFSP
+63114,Congés payés
+63121,Prime de responsabilité
+63122,Prime de panier
+63123,Primes d’encouragement et de rendement individuel (PRI-PRC)
+63124,Primes sur résultats au profit des cadres dirigeants
+63125,Primes de véhicule
+63126,Prime de caisse et de bilan
+63127,Prime de sujétion
+63128,Primes spéciales
+63131,Indemnité d'Expérience professionnelle (I.E.P)
+63132,Indemnité de nuisance
+63133,Indemnité de travail posté
+63134,Indemnités de fin de carrière et de départ à la retraite (IDR – IFC)
+63135,Indemnités kilométriques et de transport
+63138,Autres Indemnités liées au salaire
+63141,Bonifications
+63142,"Supplément familial : Prime de scolarité, IPSU, ICAF"
+63148,Autres indemnités et avantages divers
+6315,Avantages et prestations en nature
+634,Rémunération de l'exploitant
+6351,Cotisations de sécurité sociale – CNAS
+6352,Cotisations au FNPOS
+6353,Cotisations à la retraite – CNR
+6354,Cotisations aux mutuelles
+6355,Cotisations à la CACOBATPH
+6361,Cotisation annuelle à la CASNOS
+6368,Autres cotisations
+6374,Versements aux œuvres sociales
+6375,Autres contributions sociales
+6381,Médecine du travail et pharmacie
+6382,Frais de formation et de perfectionnement du personnel (en interne)
+6383,Frais d’activités socioculturelles et sportives
+6384,Avantages en nature accordés au personnel
+6385,Médailles du mérite et Jubilé
+6387,"Intéressement, primes et avantages liés aux résultats"
+6388,Autres charges de personnel
+6412,Taxe d’apprentissage
+6413,Taxe sur la formation professionnelle
+6418,Autres taxes sur les salaires
+6451,Taxe foncière sur les propriétés bâties et non bâties
+6452,Taxes spéciales et droits d'accises
+6452,Taxes spéciales et droits d'accises
+6453,Taxe sur l’environnement (écotaxe)
+6454,Taxes sur les véhicules (Vignettes)
+6455,Droits de stationnement parking communal
+6456,Droits d’enregistrement sur actes et marchés
+6457,Droits de timbre
+6458,"Autres droits, impôts et taxes divers"
+6511,Redevances pour concessions
+6521,Moins value sur cession matériel et outillage
+6522,Moins value sur cession matériel de transport
+6523,Moins value sur cession mobilier et matériel de bureau
+6528,Moins value sur cession autres équipements et matériels
+653,Jetons de présence
+6541,Pertes sur créances de l'exercice
+6542,Pertes sur créances des exercices antérieurs
+6551,Quote-part de bénéfice transférée (comptabilité du gérant)
+6552,Quote-part de perte supportée (comptabilité des associés non gérants)
+6562,"Amendes et pénalités (pénales, fiscales et parafiscales)"
+6563,Subventions accordées
+6566,Dons et libéralités
+657,Charges exceptionnelles de gestion courante
+658,Autres charges de gestion courante
+6611,Intérêts des emprunts
+6612,Intérêts des dettes
+6616,"Intérêts bancaires et sur opérations de financement (escompte, ...)"
+6618,Intérêts des autres dettes
+664,Pertes sur créances liées à des participations
+665,Ecart d’évaluation sur actifs financiers - Moins-values
+666,Pertes de change
+667,Pertes nettes sur cessions d’actifs financiers
+668,Autres charges financières
+6811,DAP-PDV : Immobilisations incorporelles
+6812,DAP-PDV : Immobilisations corporelles
+6853,Dotations pour pertes de valeurs sur stocks
+6854,Dotations pour pertes de valeurs sur créances
+6855,Dotation annuelle pour Indemnité de départ à la retraite et IFC
+6856,Dotations aux provisions pour pertes et charges – PNC
+6858,Dotations aux provisions – passifs courants
+6861,Dotations aux amortissements des primes de remboursement des obligations
+691,Participation des salariés aux résultats
+692,Imposition différée actif – Produits
+693,Imposition différée passif – Charges
+698,Autres impôts sur les résultats
+700,Ventes de Marchandises
+701,Produits finis (ou groupe) A
+702,Produits finis (ou groupe) B
+7011,Ventes de Produit fini (ou groupe) – PF1
+7012,Ventes de Produit fini (ou groupe) – PF2
+7013,Ventes de Produit fini (ou groupe) – PF3
+7021,Ventes de Produits intermédiaires (ou groupe) – PI-1
+7022,Ventes de Produits intermédiaires (ou groupe) – PI-2
+7028,Ventes de sous produits (PR et accessoires fabriqués)
+703,Ventes de produits résiduels
+7041,Travaux hydrauliques
+7042,Travaux publics
+7043,Travaux de constructions de bâtiments
+705,Études
+706,Prestations de services
+7081,Cession de matières premières
+7082,Cession d’autres approvisionnements
+7086,Bonis sur reprise d’emballages consignés
+7088,Autres produits des activités annexes
+7092,Réduction sur ventes – Hors factures
+7093,Réduction sur prestations – Hors factures
+7233,IEn-cours de production
+7234,En-cours d'études et de services
+7241,Produits intermédiaires
+7245,Produits finis
+729,Coût de la sous activité (différence d'imputation coût du chômage)
+731,Production immobilisée d'actifs incorporels (logiciels)
+732,Production immobilisée d'actifs corporels
+741,Subvention d'équilibre
+748,Autres subventions d'exploitation
+7518,Autres droits et valeurs similaires
+751,"Redevances pour concessions, brevets, licences, logiciels et valeurs similaires"
+752,Plus values sur sorties d’actifs immobilisés non financiers
+753,Jetons de présence perçus
+754,Quotes-parts de subventions d’investissement virées au résultat de l’exercice
+7551,Quote-part de perte transférée (dans les SEP et GIE)
+7552,Quote-part de bénéfice attribué (dans les SEP et GIE)
+756,Rentrées sur créances amorties
+7571,Ecart de stocks (positif) de marchandises
+7572,"Ecart de stocks (positif) de matières, fournitures et autres approvisionnements"
+7575,Dégrèvements d’impôts (autre qu’IBS)
+7578,Autres produits exceptionnels
+7581,Lots de bord et pièces de rechange gratuites
+7582,Remboursements sinistres et dégâts assurés
+7583,Revenus des immeubles de placement
+7586,Produits des exercices antérieurs (en cours d'exercice)
+7588,Produits des exercices antérieurs (en cours d'exercice)
+761,Produits de participations
+762,Revenus des actifs financiers
+763,Revenus de créances
+765,Ecart d’évaluation sur actifs financiers – Plus-values
+766,Gains de change
+78111,Reprises sur amortissements : Immobilisations incorporelles
+78112,Reprises sur perte de valeur : Immobilisations incorporelles
+78113,Reprises sur amortissements : Immobilisations corporelles
+78114,Reprises sur perte de valeur : Immobilisations corporelles
+78115,Reprises sur écarts de réévaluation : Immobilisations corporelles
+78117,Reprises sur plus values à réinvestir
+7853,Reprise sur pertes de valeurs – Stocks et encours
+7854,Reprise sur pertes de valeurs – Créances
+7858,Reprise sur provisions pour pertes et charges – PNC
+786,Reprises financières sur pertes de valeur et provisions
